@@ -1,0 +1,46 @@
+
+table{
+    margin-left: 100px;
+}
+table ,tr, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(220, 234, 240);
+    color: black;
+}
+.maindiv{
+    width: 100%;
+    height: 100%;
+    /* background-color: rgb(186, 218, 250);  */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.formdiv{
+    /* width: 30%; */
+    /* background-color: aqua; */
+    /* border: 1px solid rgb(3, 3, 3);
+    border-radius: 10px; */
+   padding: 10px 10px  35px 10px ;
+   /* background-color: rgb(146, 230, 245);  */
+margin: 0px 0px 20px 0px;
+}
+.formitem{
+ 
+    /* border: 1px solid green; */
+    margin-bottom: 5px;
+}
+.formitem label{
+    /* border: 1px solid green; */
+    padding: 5px;
+}
+.tablediv{
+    width: 80%;
+    align-items: center;
+    align-self: center;
+    
+   
+  
+}
+
